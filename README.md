@@ -19,3 +19,10 @@ Driving on the public roads is inherently an interactive task, i.e., autonomous 
 ### Human View
 ![HiL-Interacting-with-Aggressive-HumanDriver-Human View 00_00_00-00_00_30](https://github.com/Kayne0401/IMPC/assets/112403512/20edb960-dc0c-42aa-bd58-75d869d08d64)
 
+# Supplementary Videos of Decision-Making Performance Evaluation and Comparison
+
+### Roundabout Scenarios
+#### Case 1 
+
+#### Case 2
+
