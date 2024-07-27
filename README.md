@@ -22,12 +22,11 @@ Driving on the public roads is inherently an interactive task, i.e., autonomous 
 # Supplementary Videos of Decision-Making Performance Evaluation and Comparison
 
 ### Roundabout Scenarios
-#### Case 1 
+Case 1 | Case 2
+:-------------------------:|:-------------------------:
+https://github.com/user-attachments/assets/89c1c309-ff8a-4d33-94be-d1550e3d686b | https://github.com/user-attachments/assets/e4764fe6-c32f-4352-aed9-0708b32fbccc
 
-https://github.com/user-attachments/assets/89c1c309-ff8a-4d33-94be-d1550e3d686b
 
-#### Case 2
 
-https://github.com/user-attachments/assets/e4764fe6-c32f-4352-aed9-0708b32fbccc
 
 
