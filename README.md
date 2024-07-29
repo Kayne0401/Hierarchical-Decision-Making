@@ -22,6 +22,11 @@ Case 1 | Case 2
 :-------------------------:|:-------------------------:
 ![crossroad_case1_mp4 00_00_00-00_00_30](https://github.com/user-attachments/assets/47db45ca-6160-4a81-9b6e-84bffe2e3613) | ![crossroad_case3_mp4 00_00_00-00_00_30](https://github.com/user-attachments/assets/d131c71b-7f30-49a2-b598-0d98d66f73ee)
 
+### T-junction Scenarios
+Case 1 | Case 2
+:-------------------------:|:-------------------------:
+![tjunction_case1_mp4 00_00_00-00_00_30](https://github.com/user-attachments/assets/1964ab21-5ee5-4ca2-aee3-19da4aa89570) | ![tjunction_case3_mp4 00_00_00-00_00_30](https://github.com/user-attachments/assets/d96811e4-472d-43c3-b572-82cd19283294)
+
 ### Roundabout Scenarios
 Case 1 | Case 2
 :-------------------------:|:-------------------------:
