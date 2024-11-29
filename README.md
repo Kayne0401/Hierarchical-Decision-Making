@@ -11,7 +11,7 @@ RDB 3 | RDB 6
 :-------------------------:|:-------------------------:
 https://github.com/user-attachments/assets/598fe268-90a2-4038-855a-1f05b38c27e0 | https://github.com/user-attachments/assets/80bdcced-f1d0-4252-96ce-faa1d1bdafcc
 
-# Quantitative Performance Evaluation
+# Supplementary Videos of Quantitative Performance Evaluation
 ### Crossroad Scenarios
 Case 1 | Case 2
 :-------------------------:|:-------------------------:
@@ -27,7 +27,7 @@ Case 1 | Case 2
 :-------------------------:|:-------------------------:
 ![Roundabout-2 00_00_00-00_00_30](https://github.com/user-attachments/assets/018cf04c-beb8-4476-b5f4-84b3efbf5986) | ![Roundabout-33 00_00_00-00_00_30](https://github.com/user-attachments/assets/22a591ca-b0c7-43de-8d4c-c386e06ed9dd)
 
-# Supplementary Videos of ardware-in-the-Loop Experiments
+# Supplementary Videos of Hardware-in-the-Loop Experiments
 ## 1. Mandatory Lane Change in Dense Traffic Scenario
 ### Top View
 ![HiL-Mandatory lane change scenario-Case-2-Top View 00_00_00-00_00_30](https://github.com/Kayne0401/IMPC/assets/112403512/386c15bf-57e5-4499-8545-73fcda925e2d)
