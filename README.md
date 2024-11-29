@@ -5,8 +5,9 @@ Driving on the public roads is inherently an interactive task, i.e., autonomous 
 # Supplementary Videos of Qualitative Perfromance Evaluation Via Real-World Dataset
 RDB 1 | RDB 2
 :-------------------------:|:-------------------------:
+https://github.com/user-attachments/assets/7fd36cc3-7939-476a-b5cb-4b0ee0940c6a | https://github.com/user-attachments/assets/9aa73c6e-4dc3-43db-946e-00ef0519e77a
 
-RDB 1 | RDB 2
+RDB 3 | RDB 6
 :-------------------------:|:-------------------------:
 
 # Quantitative Performance Evaluation
